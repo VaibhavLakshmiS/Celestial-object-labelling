@@ -19,7 +19,7 @@ Our Celestial Body Classifier has demonstrated high accuracy in classifying cele
 
 Developed and worked on by the ABTV team
 
--Vaibhav Lakshmi
--Bahar Chidem
--Arina Azmi
--Tara Jorjani
+- Vaibhav Lakshmi
+- Bahar Chidem
+- Arina Azmi
+- Tara Jorjani
